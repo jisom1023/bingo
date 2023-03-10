@@ -1,0 +1,132 @@
+
+
+#page{
+width:455px;
+margin: 100px auto;
+}
+
+td{
+font-family:cursive;
+color:#333;
+padding: 10px;
+width: 50px;
+height: 50px;
+text-align: center;
+border: 3px solid #11e;
+background-color:#eee;
+cursor: pointer;
+
+
+}
+
+
+.bingohead{
+border:10px solid #c2324c;
+}
+
+#gener {
+    margin: 10px;
+    background-color: white;
+    width: 7%;
+    border-style: dotted;
+    border-color: #0CF;
+    border-radius: 10%;
+    font-family: cursive;
+}
+
+
+
+h1, h3, h3 a{
+	font-family:cursive;
+	text-align:center;
+	padding:3px;
+	color:#211111;
+	background-color:#EEEEEE;
+	border:2px solid #DDDDCC;
+    width: 382px;
+    
+    
+}
+
+#free{
+	background-color:#fff;
+	color:#333;
+	cursor: pointer;
+}
+
+a:hover{
+    color: #21aa;
+}
+
+img{
+    margin-bottom: -4px;
+    width: 392px;
+   
+   
+}
+
+
+body{
+  background-image: url("https://media.istockphoto.com/id/1168680477/photo/vintage-school-desk.jpg?s=612x612&w=0&k=20&c=kE7FBTGefoLFytZbBqkaUC2jEzU3T9dX41e022objb8=");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+ 
+
+
+}
+table{
+    
+    height: 200px;
+    
+    background: linear-gradient(
+        90deg,
+        rgba(255, 0, 0, 1) 0%,
+        rgba(255, 154, 0, 1) 10%,
+        rgba(208, 222, 33, 1) 20%,
+        rgba(79, 220, 74, 1) 30%,
+        rgba(63, 218, 216, 1) 40%,
+        rgba(47, 201, 226, 1) 50%,
+        rgba(28, 127, 238, 1) 60%,
+        rgba(95, 21, 242, 1) 70%,
+        rgba(186, 12, 248, 1) 80%,
+        rgba(251, 7, 217, 1) 90%,
+        rgba(255, 0, 0, 1) 100%
+    );
+}
+
+
+
+    
+
+#B{
+    background-color: white;
+    border-radius: 50%;
+    font-family: cursive;
+}
+
+#I{
+    background-color: white;
+    border-radius: 50%;
+    font-family: cursive;
+}
+
+#N{
+    background-color: white;
+    border-radius: 50%;
+    font-family: cursive;
+}
+
+#G{
+    background-color: white;
+    border-radius: 50%;
+    font-family: cursive;
+}
+
+#O{
+    background-color: white;
+    border-radius: 50%;
+    font-family: cursive;
+}
+
+
